@@ -1,0 +1,12 @@
+# Python 3.13 compatible
+aiohttp>=3.9.0
+websockets>=12.0
+pandas>=2.0.0
+
+# Official SDKs (protocol priority A)
+# paradex_py does NOT support Python 3.13 (requires <3.13).
+# Paradex connector uses raw aiohttp/websockets fallback instead.
+lighter-sdk>=1.0.2
+
+# Dashboard (Streamlit)
+streamlit>=1.30.0

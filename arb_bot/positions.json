@@ -1,0 +1,11 @@
+[
+  {
+    "id": "6c4a5e62-0dea-4d87-b8db-d1e34a05fff6",
+    "symbol": "TRUMP",
+    "long_dex": "Omni",
+    "short_dex": "Lighter",
+    "alert_threshold": 0.0002,
+    "entry_spread": null,
+    "created_at": 1769768215.528894
+  }
+]
